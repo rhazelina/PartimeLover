@@ -30,7 +30,7 @@
 
 quiet coding • gentle vibes • shared dreams
 <img src="https://img.shields.io/badge/☕-coffee_powered-8B4513?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/🎧-lofi_coded-9370DB?style=flat&logoColor=white"/> <img src="https://img.shields.io/badge/🌙-night_owl-191970?style=flat&logoColor=white"/> </div>
-🌸 about this space
+👾 about this space
 
 this little project grows quietly in the corners of free time. born from midnight curiosity and nurtured by coffee-fueled weekends. nothing fancy, just honest code and gentle progress.
 
@@ -44,14 +44,14 @@ this little project grows quietly in the corners of free time. born from midnigh
     │                   │
     └─ 🌙 until dawn ────┘
 
-💫 the essence
+> the essence
 
     🎧 soundtrack: lo-fi hip hop radio, rain sounds, soft jazz
     ☕ fuel: warm coffee, green tea
     🌱 growth: one small commit at a time
     💝 purpose: joy in the making, sharing the journey (im promise)
 
-🤝 gentle invitation
+> gentle invitation
 
 if this resonates with you, feel free to fork and make it yours. every contribution adds to the quiet magic.
 bash
