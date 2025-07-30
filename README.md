@@ -59,15 +59,11 @@ bash
 
 <div align="center">
 
-built during quiet hours
-shared with gentle hearts
-grown with patient hands
-
     ┌─────────────────────────────────┐
-    │  "code is poetry in motion"     │
+    │  "code is youself"              │
     │                                 │
     │        - a part time lover      │
     └─────────────────────────────────┘
 
-<sub>🌙 crafted with love during peaceful nights</sub>
+<sub> It's me, you and The Night Story</sub>
 </div>
